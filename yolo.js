@@ -1,1 +1,1 @@
-console.log("For your yelo badges!");
+const pair = "extraordinairetra";
